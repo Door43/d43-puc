@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[puc:home|Door43 (puc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-puc|d43-puc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-puc/archive/master.zip|d43-puc.zip]]
+
+**Recent Changes**
+{{changes>ns = puc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/puc|Ethnologue data]]
+
